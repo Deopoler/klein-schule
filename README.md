@@ -1,16 +1,15 @@
 # klein_schule
 
-A new Flutter project.
+2023학년도 광주중앙고등학교 정보 진로 프로젝트 '클레인 스콜'
 
-## Getting Started
+## File Structure
 
-This project is a starting point for a Flutter application.
+lib
 
-A few resources to get you started if this is your first Flutter project:
+└── src: main.dart를 제외한 모든 소스코드
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    ├── bindings: Getx Controller Binding
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ├── controllers: Getx Controllers
+
+    └── pages: 페이지
