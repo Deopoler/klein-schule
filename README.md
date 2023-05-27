@@ -4,12 +4,8 @@
 
 ## File Structure
 
-lib
-
-└── src: main.dart를 제외한 모든 소스코드
-
-    ├── bindings: Getx Controller Binding
-
-    ├── controllers: Getx Controllers
-
-    └── pages: 페이지
+    lib
+    └── src: main.dart를 제외한 모든 소스코드
+        ├── bindings: Getx Controller Binding
+        ├── controllers: Getx Controllers
+        └── pages: 페이지
